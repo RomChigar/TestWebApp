@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "TestWebAppLPCloud",
+      "defaultValue": "WebApp20220520085533",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
